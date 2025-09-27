@@ -1,0 +1,6 @@
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/mislam6101/PWAD-68_Bootstrap_Practices.git
+git push -u origin main
